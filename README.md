@@ -36,8 +36,7 @@
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
-
-Connect With Me
+## Connect with Me
 ●  Email: [saigandam1390@gmail.com]
 ●  GitHub: [https://github.com/SaiKiranGandham]
 ●  LinkedIn:  [https://www.linkedin.com/in/sai-kiran-gandham-84a0b3248/]
