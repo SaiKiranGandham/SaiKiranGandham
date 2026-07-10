@@ -1,28 +1,36 @@
-# Hi, I'm Sai Kiran Gandham 
+Hi, I'm Sai Kiran Gandham 👋
 
-### Python Full Stack Developer | B.Tech CSE (AI & ML) Student
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML), SNIST
-- 💻 Python Full Stack Developer
-- 🌱 Learning Django, Flask, React.js, and REST APIs
-- 🚀 Passionate about Backend & Full Stack Development
-- 📍 Hyderabad, Telangana, India
+*Python Full Stack Developer | B.Tech CSE (AI & ML) Student*
 
 ---
 
-## 🚀 Projects
+**About Me**
 
-●  TeamFlow – Full Stack Project Management System with user authentication, dashboard, task management, and REST API integration using React.js, Node.js, Express.js, and MySQL.
+🎓 B.Tech in Computer Science & Engineering (AI & ML), SNIST
 
-●  Spam Email Detection System – Machine learning application that classifies spam and legitimate emails using Python, TF-IDF, and Naive Bayes.
+💻 Python Full Stack Developer
+
+🌱 Currently learning Django, Flask, React.js, and REST APIs
+
+🚀 Passionate about Backend & Full Stack Development
+
+📍 Hyderabad, Telangana, India
 
 ---
 
-## 💻 Tech Stack
+**Projects**
+
+**TeamFlow – Full Stack Project Management System**
+
+Developed a full-stack project management application with user authentication, dashboard, task management, and REST API integration using React.js, Node.js, Express.js, and MySQL.
+
+**Spam Email Detection System**
+
+Built a machine learning application that classifies spam and legitimate emails using Python, TF-IDF, and Naive Bayes.
+
+---
+
+**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -36,7 +44,13 @@
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
-## Connect with Me
-●  Email: [saigandam1390@gmail.com]
-●  GitHub: [https://github.com/SaiKiranGandham]
-●  LinkedIn:  [https://www.linkedin.com/in/sai-kiran-gandham-84a0b3248/]
+
+**Connect with Me**
+
+Email: <mailto:saigandam1390@gmail.com>
+
+GitHub: <https://github.com/SaiKiranGandham>
+
+LinkedIn: <https://www.linkedin.com/in/sai-kiran-gandham-84a0b3248/>
+
+
