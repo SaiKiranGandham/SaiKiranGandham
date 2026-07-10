@@ -40,4 +40,4 @@
 Connect With Me
 ●  Email: [saigandam1390@gmail.com]
 ●  GitHub: [https://github.com/SaiKiranGandham]
-●  LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME]
+●  LinkedIn:  [https://www.linkedin.com/in/sai-kiran-gandham-84a0b3248/]
