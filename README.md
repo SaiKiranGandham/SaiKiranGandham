@@ -6,14 +6,14 @@ Python Full Stack Developer | B.Tech CSE (AI & ML) Student
 
 ###  About Me
 
-- 💻 Proficient in **Python, and learning **Django, Flask, HTML, CSS, JavaScript, React.js, and MySQL**
-- 🚀 Working on projects like **TeamFlow – Full Stack Project Management System** and **Spam Email Detection System**
-- 🌱 Currently exploring **REST APIs, Backend Development, Machine Learning, and Cloud Technologies**
-- 💡 Interested in **Python Full Stack Development, Backend Development, Problem Solving, and Software Engineering**
+-  Proficient in **Python, and learning **Django, Flask, HTML, CSS, JavaScript, React.js, and MySQL**
+-  Working on projects like **TeamFlow – Full Stack Project Management System** and **Spam Email Detection System**
+-  Currently exploring **REST APIs, Backend Development, Machine Learning, and Cloud Technologies**
+-  Interested in **Python Full Stack Development, Backend Development, Problem Solving, and Software Engineering**
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 - **TeamFlow** – Full Stack Project Management System with user authentication, dashboard, task management, and REST API integration using React.js, Node.js, Express.js, and MySQL.
 
@@ -21,7 +21,7 @@ Python Full Stack Developer | B.Tech CSE (AI & ML) Student
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
